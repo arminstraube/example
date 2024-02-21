@@ -1,5 +1,5 @@
 ---
-title: "THe first entry to the website"
+title: "The first entry to the website"
 date: 2024-02-21
 ---
 
